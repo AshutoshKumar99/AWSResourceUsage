@@ -1,0 +1,9 @@
+Output
+The script will generate the following output files:
+1.	S3resurceTracker: Contains a list of all S3 buckets owned by the user.
+2.	EC2resourcetracker: Contains a list of EC2 instance IDs for instances available in the account (running, stopped, and terminated).
+3.	LambdaResourceTracker: Contains a list of all Lambda functions for the current user.
+4.	IAMUSerResourceracker: Contains a list of IAM users in the AWS account.
+Debug Mode
+The script uses the set -x option to run in debug mode. In this mode, each command being executed will be shown in the output. This is useful for troubleshooting and understanding the script's flow.
+Note: Make sure to properly configure AWS CLI and have the necessary permissions to list and access the AWS resources.
