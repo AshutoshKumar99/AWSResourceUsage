@@ -14,7 +14,7 @@ The script generates separate output files for each resource, containing relevan
 ## Author
 
 - **Author:** Ashutosh
-- **Date:** 8 Aug 2023
+- **Date:** 4 Aug 2023
 - **Version:** v1
 
 ## Prerequisites
