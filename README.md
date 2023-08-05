@@ -13,7 +13,7 @@ The script generates separate output files for each resource, containing relevan
 
 ## Author
 
-- **Author:** Ashutosh
+- **Author:** Ashutosh Kumar
 - **Date:** 4 Aug 2023
 - **Version:** v1
 
