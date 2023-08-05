@@ -7,3 +7,4 @@ The script will generate the following output files:
 Debug Mode
 The script uses the set -x option to run in debug mode. In this mode, each command being executed will be shown in the output. This is useful for troubleshooting and understanding the script's flow.
 Note: Make sure to properly configure AWS CLI and have the necessary permissions to list and access the AWS resources.
+CronJob: Use crontab -e cmd to configure the cron job
